@@ -10,7 +10,7 @@
 <p align="center">This mod allows you to Take a "3D Screenshot" of you or everyone. it also allows you to take a "3D Video Clip" of yourself</p>
 <p align="center">Useful for content creators to make funny tiktok's or other forms of content</p>
 <p align="center">
-    <a href="https://Linktodownload.com">Download Freeze Frame</a>
+    <a href="https://github.com/EdenFails/FreezeFrame-Ported/releases">Download Freeze Frame</a>
 </p>
 
 
